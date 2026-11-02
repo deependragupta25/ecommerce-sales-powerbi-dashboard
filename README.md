@@ -28,4 +28,4 @@ Source: [[Kaggle dataset name and link](https://www.kaggle.com/datasets/abbas829
 - Why a YTD measure needs a single year in context.
 
 ## How to open
-Download `report/ecommerce_sales_dashboard.pbix` and open it in Power BI Desktop.
+Download `https://github.com/deependragupta25/ecommerce-sales-powerbi-dashboard/blob/main/power%20bi%20sales%20project%203.pbix` and open it in Power BI Desktop.
